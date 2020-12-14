@@ -1,4 +1,4 @@
-Click Counter made by Coder_K
+Click Counter made by Coder-K
 Contributions by TheAwkwardGuy2020 and SG-2025
 
 ----------------------------------------------------------------------------------------------------------------
@@ -21,8 +21,8 @@ Enjoy!
 
 ----------------------------
 
-Made By: Coder_K
+Made By: Coder-K
 
-Theme Buttons And Acessibility: TheAwkwardOne2020
+Theme Buttons And Acessibility: TheAwkwardGuy2020
 
 Dark Theme and UI Improvement suggestions: SG-2025
