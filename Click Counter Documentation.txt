@@ -1,0 +1,28 @@
+Click Counter made by Coder_K
+Contributions by TheAwkwardGuy2020 and SG-2025
+
+----------------------------------------------------------------------------------------------------------------
+
+DESCRIPTION:
+This is a simple Click Counter that allows you  to increase or decrease a value to keep count.
+You can also hold enter while clicking one the "+" or "-" buttons to increase or decrease the value rapidly.
+
+----------------------------------------------------------------------------------------------------------------
+
+EXTRA FEATURES:
+The Click counter also has a dark theme (black and gold) along with the default (blue and white) light theme.
+Simply click on the respective buttons to switch between themes.
+
+----------------------------------------------------------------------------------------------------------------
+
+Thats it!
+
+Enjoy!
+
+----------------------------
+
+Made By: Coder_K
+
+Theme Buttons And Acessibility: TheAwkwardOne2020
+
+Dark Theme and UI Improvement suggestions: SG-2025
