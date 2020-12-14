@@ -10,7 +10,7 @@ You can also hold enter while clicking one the "+" or "-" buttons to increase or
 ----------------------------------------------------------------------------------------------------------------
 
 EXTRA FEATURES:
-The Click counter also has a dark theme (black and gold) along with the default (blue and white) light theme.
+The Click counter also has a dark theme (black and gold) along with the default (blue and lightblue) light theme.
 Simply click on the respective buttons to switch between themes.
 
 ----------------------------------------------------------------------------------------------------------------
